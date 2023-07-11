@@ -2,11 +2,11 @@
 
 <p float="left">
   <img 
-    src="https://gitlab.com/machine-learning-company/internships/roel-active-learning/-/raw/main/mlc_logo.png" 
+    src="https://raw.githubusercontent.com/rroell/active-learning/main/mlc_logo.png" 
     height="100" alt="Squadra MLC" title="Squadra MLC" 
     />
   <img 
-    src="https://gitlab.com/machine-learning-company/internships/roel-active-learning/-/raw/main/radboud_logo.png" 
+    src="https://raw.githubusercontent.com/rroell/active-learning/main/radboud_logo.png" 
     height="100" alt="Radboud University" title="Radboud University"
     /> 
 </p>
