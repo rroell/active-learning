@@ -1,0 +1,5 @@
+# © Roel Duijsings
+
+label-studio start
+
+label-studio-ml init my_backend \ --script "..\CLIPImageClassifierAPI.py" --force && label-studio-ml start .\my_backend
